@@ -7,4 +7,4 @@ My CV in [pdf](https://drive.google.com/file/d/1_S-5NO43KfOkSxc5c2MRledqBmK9ag_e
 
 This portfolio serves as a repository to showcase my skills, share projects and track my progress in Data Analytics and Data Science related topics.
 
-**Table of Contents**
+# Table of Contents
